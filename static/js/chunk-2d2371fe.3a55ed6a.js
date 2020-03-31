@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2371fe"],{fa7d:function(n,r,i){"use strict";i.r(r),i.d(r,"getApiUrl",(function(){return p}));var o="/prod-api";function p(){return o}}}]);
